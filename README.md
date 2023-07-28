@@ -1,5 +1,5 @@
 # ShadowStore-Frontend
-Giriş bilgileri : `admin` , ` 12345678`
+Giriş bilgileri : `admin` , `12345678`
 
 Bu projede veritabanına ürün ekleme silme ve güncelleme işlemlerini api ile bağlantı kurark yaptım veritabanı işlemleri için profilimdeki ShadowStore-Backend reposuna bakabilirsiniz.
 
