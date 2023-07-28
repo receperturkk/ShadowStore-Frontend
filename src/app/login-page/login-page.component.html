@@ -1,0 +1,23 @@
+<div>
+  <nav class="navbar navbar-light bg-primary ">
+    <div class="container-fluid">
+      <span class="navbar-brand mb-0 h1 text-white"><a href="/" class="text-white text-decoration-none"><i class="fa-sharp fa-solid fa-cart-shopping-fast"></i> SHADOW STORE</a></span>
+    </div>
+  </nav>
+  <div class="container justify-content-center mt-5 w-25 h-100 ">
+    <form>
+      <h1 class="h3 mb-3 fw-normal p-1 text-white">Lütfen Giriş Yapın</h1>
+      <div class="form-floating p-1">
+        <input type="text" class="form-control" id="username" placeholder="Kullanıcı Adı">
+        <label for="username"><i class="fa-sharp fa-solid fa-user"></i> Kullanıcı Adı</label>
+      </div>
+      <div class="form-floating p-1">
+        <input type="password" class="form-control" id="password" placeholder="Şifre">
+        <label for="password"><i class="fa-sharp fa-solid fa-lock"></i> Şifre</label>
+      </div>
+      <div class="container pt-1 d-flex justify-content-end">
+        <button class="btn btn-success w-25" type="submit" (click)="datasave()">Giriş <i class="fa-sharp fa-solid fa-right-to-bracket"></i></button>
+      </div>
+    </form>
+  </div>
+</div>
