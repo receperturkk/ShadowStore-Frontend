@@ -3,7 +3,7 @@ Giriş bilgileri : `admin` , ` 12345678`
 
 Bu projede veritabanına ürün ekleme silme ve güncelleme işlemlerini api ile bağlantı kurark yaptım veritabanı işlemleri için profilimdeki ShadowStore-Backend reposuna bakabilirsiniz.
 
-##Görseller
+## Görseller
 ### Giriş Ekranı
 ![image](https://github.com/receperturkk/ShadowStore-Frontend/assets/104844949/d469af35-ad4d-4ff3-8b0c-76cb23807be5)
 ### Anasayfa
